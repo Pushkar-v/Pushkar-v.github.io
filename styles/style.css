@@ -32,7 +32,7 @@ strong, b { font-weight: bold; }
 /* ------------ */
 /* -- Layout -- */
 /* ------------ */
-#main { margin: 40px 0 60px 0; overflow: hidden; }
+#main { margin: -25px 0 20px 0; overflow: hidden; }
 #content { float: left; width: 450px; }
 #sidebar { float: right; width: 200px; margin: 0 2px 0 0; }
 
@@ -119,5 +119,5 @@ strong, b { font-weight: bold; }
 /* ------------ */
 /* -- Footer -- */
 /* ------------ */
-#footer { clear: both; border-top: 1px #ddd dotted; margin: 40px 0 0 0; padding: 5px 0 0 0; color: #aaa; }
+#footer { clear: both; border-top: 1px #ddd dotted; margin: 0px 0 0 0; padding: 5px 0 0 0; color: #aaa; }
 #footer .twitter { float: right; }
