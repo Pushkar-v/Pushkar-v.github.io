@@ -32,8 +32,8 @@ strong, b { font-weight: bold; }
 /* ------------ */
 /* -- Layout -- */
 /* ------------ */
-#main { margin: -25px 0 20px 0; overflow: hidden; }
-#content { float: left; width: 450px; }
+#main { margin: -5px 0 20px 0; overflow: hidden; }
+#content { float: left; width: 450px; margin-top: 15px;}
 #sidebar { float: right; width: 200px; margin: 0 2px 0 0; }
 
 /* ------------ */
